@@ -1,4 +1,4 @@
-![Settings Window](https://raw.github.com/chickenshifu/chickenshifu/master/chickenshifu_header_02.png)
+![Settings Window](https://raw.github.com/chickenshifu/chickenshifu/master/chickenshifu_header_03.png)
 
 
 <h2>About</h2>
