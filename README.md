@@ -7,12 +7,12 @@
  \/  \/\____/\_____/\____/\___/\_|  |_|____/                    
 </pre>
 
-Hello friend, my name is chickenshifu and I am a very ambitious hobby software developer who very much enjoys solving my everyday problems with the help of software.
+Hello friend, my name is <b>chickenshifu</b> and I am a very ambitious hobby software developer who very much enjoys solving my everyday problems with the help of software.
 
 <ul>
 <li>🔭 currently working on **yabt** (=*yet another backtester*) + some CLI tools</li>
-<li>🌱 continuously improving my skills in: Python, golang, COBOL as well as quantitative finance and statistics</p>
-<li>💬 ask me about anything! :)</p>
+<li>🌱 continuously improving my skills in: Python, golang, COBOL as well as quantitative finance and statistics</li>
+<li>💬 ask me about anything! :)</li>
 </ul>
 
 <pre>
