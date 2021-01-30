@@ -1,4 +1,4 @@
-![header](https://raw.github.com/chickenshifu/chickenshifu/master/chickenshifu_header.png)
+
 <pre>
  _    _ _____ _     _____ ________  ________ 
 | |  | |  ___| |   /  __ \  _  |  \/  |  ___|
