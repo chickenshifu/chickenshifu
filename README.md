@@ -1,14 +1,8 @@
+![Settings Window](https://raw.github.com/chickenshifu/chickenshifu/master/chickenshifu_header_02.png)
 
-<pre>
- _    _ _____ _     _____ ________  ________ 
-| |  | |  ___| |   /  __ \  _  |  \/  |  ___|
-| |  | | |__ | |   | /  \/ | | | .  . | |__  
-| |/\| |  __|| |   | |   | | | | |\/| |  __| 
-\  /\  / |___| |___| \__/\ \_/ / |  | | |___ 
- \/  \/\____/\_____/\____/\___/\_|  |_|____/                    
-</pre>
 
-Hello friend, my name is <b>chickenshifu</b> and I am a very ambitious hobby software developer who very much enjoys solving my everyday problems with the help of software.
+<h2>About</h2>
+<p>Hello friend, my name is chickenshifu (師傅) and I am a very ambitious hobby software developer who very much enjoys solving my everyday problems with the help of software.</p>
 
 <ul>
 <li>🔭 currently working on **yabt** (=*yet another backtester*) + some CLI tools</li>
@@ -16,16 +10,9 @@ Hello friend, my name is <b>chickenshifu</b> and I am a very ambitious hobby sof
 <li>💬 ask me about anything! :)</li>
 </ul>
 
-<pre>
- _____           _               _____         _                 _                   
-|_   _|         | |        _    |_   _|       | |               | |                  
-  | | ___   ___ | |___   _| |_    | | ___  ___| |__  _ __   ___ | | ___   __ _ _   _ 
-  | |/ _ \ / _ \| / __| |_   _|   | |/ _ \/ __| '_ \| '_ \ / _ \| |/ _ \ / _` | | | |
-  | | (_) | (_) | \__ \   |_|     | |  __/ (__| | | | | | | (_) | | (_) | (_| | |_| |
-  \_/\___/ \___/|_|___/           \_/\___|\___|_| |_|_| |_|\___/|_|\___/ \__, |\__, |
-                                                                          __/ | __/ |
-                                                                         |___/ |___/ 
-</pre>
+
+<h2>Tools & Technologies</h2>
+<p>One of the greatest things when developing software is that one never learns out. Thus, remaining flexible is crucial and being a quick learner has helped and still helps me enormously adapting to new cool languages, tools and technologies.</p>
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=plastic&logo=Linux&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=plastic&logo=GNU-Bash&logoColor=white&color=red)
