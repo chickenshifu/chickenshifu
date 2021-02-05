@@ -2,12 +2,14 @@
 
 
 <h2>About</h2>
-<p>Hello friend, my name is chickenshifu (師傅) and I am a very ambitious hobby software developer who very much enjoys solving my everyday problems with the help of software.</p>
+<p>Hello friend, my name is chickenshifu (師傅) and I am a very ambitious hobby software developer who very much enjoys solving my own and friends everyday struggles with the help of software.</p>
+<p>As in 2021, our world is intensively connected to the internet, most of my projects are focussing on web automation.</p>
 
 <ul>
   <li>🔭 currently working on <a href='https://github.com/chickenshifu/WikifolioPy'>WikifolioPy</a> (a handy tool for automated trading on wikifolio.com) + some CLI tools</li>
-<li>🌱 continuously improving my skills in: Python, golang, COBOL as well as quantitative finance and statistics</li>
-<li>💬 ask me about anything! :)</li>
+  <li>🌱 continuously improving my skills in: Python and Golang</li>
+  <li> like to dabble with both new (e.g. Rust) and old programming languages (e.g. COBOL)</li>
+  <li>💬 ask me about anything! :)</li>
 </ul>
 
 
