@@ -8,7 +8,7 @@
 <ul>
   <li>🔭 currently working on <a href='https://github.com/chickenshifu/WikifolioPy'>WikifolioPy</a> (a handy tool for automated trading on wikifolio.com) + some CLI tools</li>
   <li>🌱 continuously improving my skills in: Python and Golang</li>
-  <li> like to dabble with both new (e.g. Rust) and old programming languages (e.g. COBOL)</li>
+  <li>⌨️ like to dabble with both new (e.g. Rust) and old programming languages (e.g. COBOL)</li>
   <li>💬 ask me about anything! :)</li>
 </ul>
 
