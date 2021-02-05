@@ -5,7 +5,7 @@
 <p>Hello friend, my name is chickenshifu (師傅) and I am a very ambitious hobby software developer who very much enjoys solving my everyday problems with the help of software.</p>
 
 <ul>
-<li>🔭 currently working on **yabt** (=*yet another backtester*) + some CLI tools</li>
+  <li>🔭 currently working on <a href='https://github.com/chickenshifu/WikifolioPy'>WikifolioPy</a> (a handy tool for automated trading on wikifolio.com) + some CLI tools</li>
 <li>🌱 continuously improving my skills in: Python, golang, COBOL as well as quantitative finance and statistics</li>
 <li>💬 ask me about anything! :)</li>
 </ul>
