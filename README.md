@@ -21,7 +21,6 @@
 ![](https://img.shields.io/badge/Editor-vim-informational?style=plastic&logo=Vim&logoColor=white&color=important)
 ![](https://img.shields.io/badge/Language-Python-informational?style=plastic&logo=Python&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/Language-Go-informational?style=plastic&logo=Go&logoColor=white&color=informational)
-![](https://img.shields.io/badge/Language-COBOL-informational?style=plastic&color=informational)
 ![](https://img.shields.io/badge/Cloud-DigitalOcean-informational?style=plastic&logo=DigitalOcean&logoColor=white&color=blueviolet)
 
 
